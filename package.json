@@ -1,0 +1,29 @@
+{
+  "name": "ktun",
+  "version": "1.0.0",
+  "description": "Discord bot, who spy everywhere",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladyslavHimself/ktun.git"
+  },
+  "keywords": [
+    "Bot",
+    "discord",
+    "administration",
+    "discord.js"
+  ],
+  "author": "VladyslavHimself <vladyslavhimself@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladyslavHimself/ktun/issues"
+  },
+  "homepage": "https://github.com/VladyslavHimself/ktun#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "discord.js": "^12.5.3"
+  }
+}
